@@ -54,20 +54,6 @@ La compañía **Sweet Lift Taxi** se enfrenta al desafío de predecir la cantida
    pip install -r requirements.txt
    ```  
 
-3. **Ejecuta el script de preprocesamiento**:  
-   ```bash
-   python preprocesamiento.py
-   ```  
-
-4. **Entrena los modelos**:  
-   ```bash
-   python model_training.py
-   ```  
-
-5. **Evalúa el rendimiento**:  
-   ```bash
-   python evaluation.py
-   ```  
 
 ## **Impacto del Proyecto**  
 
